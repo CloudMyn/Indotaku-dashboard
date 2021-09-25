@@ -1,0 +1,10 @@
+cp-admin
+user-name : epiz_26219528
+password: 7ltm8l27VrghmDR
+domains: myotaku.epizy.com
+
+cp-mysql
+host-name : sql113.epizy.com 
+user-name : epiz_26219528
+password: 7ltm8l27VrghmDR
+port : 3306

@@ -1,0 +1,22 @@
+## [Config]
+- host-admin : http://myotaku.epizy.com/komikings/
+- host-api   : http://myotaku.epizy.com/comic-api/
+
+cp-admin
+user-name : epiz_26219528
+password  : 7ltm8l27VrghmDR
+domains   : myotaku.epizy.com
+ip-address: 185.27.134.125
+
+cp-mysql
+host-name : sql113.epizy.com
+user-name : epiz_26219528
+password  : 7ltm8l27VrghmDR
+port 	  : 3306
+db-name   : epiz_26219528_myotaku
+
+cp-ftp
+user-name : epiz_26219528
+host-name : ftpupload.net
+password  : 7ltm8l27VrghmDR
+port	  : 21
